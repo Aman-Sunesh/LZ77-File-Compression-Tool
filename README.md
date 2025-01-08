@@ -36,7 +36,7 @@ cd LZ77-File-Compression-Tool
 ## Compilation
 Compile the C++ source code using your preferred compiler. For example, using g++:
 ```bash
-g++ -std=c++11 -o LZ77_Compression_Tool main.cpp
+g++ -std=c++11 -o LZ77_Compression_Tool lz77_encoder_decoder.cpp
 ```
 Ensure that all source files (main.cpp and any other necessary files) are in the project directory.
 
