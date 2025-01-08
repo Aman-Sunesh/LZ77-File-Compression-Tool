@@ -33,13 +33,6 @@ git clone https://github.com/yourusername/LZ77-File-Compression-Tool.git
 cd LZ77-File-Compression-Tool
 ```
 
-
-## Usage
-To run the application, navigate to the application directory and run:
-```bash
-python python_web_scraping.py
-```
-
 ## Compilation
 Compile the C++ source code using your preferred compiler. For example, using g++:
 ```bash
