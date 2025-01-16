@@ -17,6 +17,7 @@ If you don't have a C++ compiler installed, you can install `g++` using the foll
   ```bash
   sudo apt update
   sudo apt install build-essential
+  ```
 
 - **For macOS (using Homebrew):**
     ```bash
